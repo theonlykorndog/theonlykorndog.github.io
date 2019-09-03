@@ -11,7 +11,7 @@ Install the Tweaks Wizard:
     <li>When prompted, select <strong>Settings</strong>, enable <strong>Unknown sources</strong> then select <strong>Yes</strong>.</li>
     <li>Go back to <strong>Addons</strong> then select <strong>Install from zip file</strong> once again.</li>
     <li>Select <strong>tok</strong> then select <strong><a href="plugin.video.tweaks-1.0.5.zip">plugin.video.tweaks-1.0.5.zip</a></strong>.</li>
-    <li>Wait for the <strong>Add-on installed</strong> notification, select <strong>Open</strong> to open the <strong>Tweaks Wizard</strong>.</li>
+    <li>Wait for the <strong>Add-on installed</strong> notification then select <strong>Open</strong> to use the <strong>Tweaks Wizard</strong>.</li>
   </ul>
 </p>
 
