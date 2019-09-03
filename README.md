@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Welcome to theonlykorndog Repository addon
+## Repository Current Version:    1.0.8
+## Tweaks Wizard Current Version: 1.0.5
 
-You can use the [editor on GitHub](https://github.com/theonlykorndog/theonlykorndog.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Instructions for adding the repo and the Tweaks Wizard:
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align="left">
+  <ul>
+    <li>Go to Kodi ***bold***Settings > File manager.</li>
+    <li>Click on "Add source"</li>
+    <li>The path for the source is <code>https://i-a-c.github.io/</code> (Give it the name "ExodusRedux Repo").</li>
+    <li>Go to "Addons"</li>
+    <li>In Addons, install an addon from zip.  When it asks for the location, select "ExodusRedux Repo", and install <a href="repository.theonlykorndog-1.0.8.zip">repository.theonlykorndog-1.0.8.zip</a>.</li>
+    <li>Go back to Addons install, but this time, select "Install from repository"</li>
+    <li>Select the "ExodusRedux Repository"</li>
+    <li>Go into the "Video add-ons" section in the repo, and you'll find Exodus Redux</li>
+  </ul>
+</p>
 
-```markdown
-Syntax highlighted code block
+## Enjoy!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theonlykorndog/tok.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
