@@ -1,10 +1,9 @@
-# Welcome to theonlykorndog Repository addon
-## Repository Current Version:    1.0.8
-## Tweaks Wizard Current Version: 1.0.5
+# theonlykorndog Repository addons
+## Repository Version:    1.0.8
+## Tweaks Wizard Version: 1.0.5
 
 
-Instructions for adding the repo and the Tweaks Wizard:
-
+Method 2 - Install repo then the Tweaks Wizard:
 
 <p align="left">
   <ul>
@@ -15,7 +14,7 @@ Instructions for adding the repo and the Tweaks Wizard:
     <li>In Addons, install an addon from zip.  When it asks for the location, select "repo", and install <a href="repository.theonlykorndog-1.0.8.zip">repository.theonlykorndog-1.0.8.zip</a>.</li>
     <li>Go back to Addons install, but this time, select "Install from repository"</li>
     <li>Select the "theonlykorndog Repository"</li>
-    <li>Go into the "Video add-ons" section in the repo, and you'll find Exodus Redux</li>
+    <li>Go into the "Video add-ons" section in the repo, and you'll find heExodus Redux</li>
   </ul>
 </p>
 
