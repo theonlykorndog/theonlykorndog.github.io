@@ -7,12 +7,12 @@ Method 2 (legacy) - Install repo then install the Tweaks Wizard:
 
 <p align="left">
   <ul>
-    <li>Go to <strong>Settings (gear icon) > File manager</strong> then click on <strong>Add Source</strong></li>
-    <li>The path for the source is <code>https://theonlykorndog.github.io/</code> (Give it the simple name <strong>repo</strong>).</li>
-    <li>Go to Settings > Addons to open the Add-on browser then click on Install from zip file.</li>
-    <li>When asked for the location, select "repo" then install <a href="repository.theonlykorndog-1.0.8.zip">repository.theonlykorndog-1.0.8.zip</a>.</li>
-    <li>Go back to Addons, select Install from repository then select the "theonlykorndog Repository"</li>
-    <li>Go to Video add-ons, click the Tweaks Wizard then click again to install the add-on.</li>
+    <li>Go to <strong>System (gear icon) > File manager</strong> then click on <strong>Add Source</strong></li>
+    <li>For the path, enter <code>https://theonlykorndog.github.io/</code> (Give it the simple name <strong>repo</strong>).</li>
+    <li>Go to back to <strong>System</strong> click <strong>Addons</strong> to open the <strong>Add-on browser</dtrong> then click on <strong>Install from zip file</strong>.</li>
+    <li>When asked for the location, select <strong>repo</strong> then install <strong><a href="repository.theonlykorndog-1.0.8.zip">repository.theonlykorndog-1.0.8.zip</a></strong>.</li>
+    <li>Go back to the <strong>Add-on browser</strong>, select <strong>Install from repository</strong> then select the <strong>theonlykorndog Repository</strong>.</li>
+    <li>Go to <strong>Video add-ons</strong>, click the <strong>Tweaks Wizard</strong> then click again to install the add-on.</li>
   </ul>
 </p>
 
