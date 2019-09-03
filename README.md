@@ -1,4 +1,4 @@
-This method is for those familiar with installing add-ons when coming from a Clear Data or fresh install. 
+This method is for those familiar with installing add-ons after a Clear Data or fresh install. 
 
 Install the Tweaks Wizard:
 
