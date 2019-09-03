@@ -1,6 +1,6 @@
 The following method is for those familiar with installing add-ons when coming from a Clear Data or fresh install. 
 
-Install the Tweaks Wizard v1.0.5:
+Install the Tweaks Wizard:
 
 <p align="left">
   <ul>
