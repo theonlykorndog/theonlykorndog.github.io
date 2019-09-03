@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.tweaks" name="[COLOR yellow]Tweaks Wizard[/COLOR]" version="1.0.5" provider-name="theonlykorndog">
+
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video executable</provides>
+	</extension>
+
+	<extension point="xbmc.addon.metadata">
+		<summary>Tweaks Wizard v1.0.5 (2019-08-31)</summary>
+		<description>Installs skin builds and patches from [COLOR lime]theonlykorndog[/COLOR]. Must force close through device app settings on Amazon or Android devices after a build or patch install. Please visit [COLOR yellow]theonlykorndog.com[/COLOR] for news, information and support.</description>
+		<disclaimer lang="en">The author does not host or distribute any content. The author does not have any affiliation with any content provider.</disclaimer>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<news>v1.0.5 - Updated description, summary and GNU license; added disclaimer.</news>
+	</extension>
+
+    <assets>
+        <icon>resources/icon.png</icon>
+        <fanart>resources/fanart.jpg</fanart>
+    </assets>
+	
+</addon>
