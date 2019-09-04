@@ -1,6 +1,6 @@
 This method is for those familiar with installing add-ons after a Clear Data or fresh install. 
 
-Install the <strong><a href="plugin.video.tweaks-1.0.5.zip">Tweaks Wizard</a></strong> from <strong><a href="repository.theonlykorndog-1.0.8.zip">theonlykorndog Repository</a></strong>:
+Install the <strong>Tweaks Wizard</strong> from <strong><a href="repository.theonlykorndog-1.0.8.zip">theonlykorndog Repository</a></strong>:
 
 <p align="left">
   <ul>
@@ -10,10 +10,12 @@ Install the <strong><a href="plugin.video.tweaks-1.0.5.zip">Tweaks Wizard</a></s
     <li>Go back to <strong>System</strong>, select <strong>Addons</strong> then select <strong>Install from zip file</strong>.</li>
     <li>When prompted, select <strong>Settings</strong>, enable <strong>Unknown sources</strong> then select <strong>Yes</strong>.</li>
     <li>Go back to <strong>Addons</strong> then select <strong>Install from zip file</strong> once again.</li>
-    <li>Select <strong>tok</strong> then select <strong><a href="plugin.video.tweaks-1.0.5.zip">plugin.video.tweaks-1.0.5.zip</a></strong>.</li>
+    <li>Select <strong>tok</strong> then select <strong><a href="plugin.video.tweaks-1.0.5.zip"><code>plugin.video.tweaks-1.0.5.zip</code></a></strong>.</li>
     <li>Wait for the <strong>Add-on installed</strong> notification then select <strong>Run</strong> to open the <strong>Tweaks Wizard</strong>.</li>
   </ul>
 </p>
+
+Alternatively, <strong>Install from zip file</strong>, select <a href="repository.theonlykorndog-1.0.8.zip"><code>repository.theonlykorndog-1.0.8.zip</code></a></strong> then install the Tweaks Wizard from the theonlykorndog Repository.
 
 ## -- theonlykorndog
 
