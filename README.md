@@ -15,7 +15,7 @@ This method is for those familiar with installing add-ons after a Clear Data or 
   </ul>
 </p>
 
-*Alternatively, select <strong><a href="repository.theonlykorndog-1.0.8.zip">repository.theonlykorndog-1.0.8.zip</a></strong>, wait for the <strong>Add-on installed</strong> notification, select <strong>Install from repository</strong>, select <strong>theonlykorndog Repository</strong>, select <strong>Video or Program add-ons</strong>. select <strong>Tweaks Wizard</strong> then select <strong>Install</strong>.
+*Alternatively, select <strong><a href="repository.theonlykorndog-1.0.8.zip">repository.theonlykorndog-1.0.8.zip</a></strong>, wait for the <strong>Add-on installed</strong> notification, select <strong>Install from repository</strong>, select <strong>theonlykorndog Repository</strong>, select <strong>Video add-ons</strong>, select <strong>Tweaks Wizard</strong> then select <strong>Install</strong>.
 
 ## -- theonlykorndog
 
