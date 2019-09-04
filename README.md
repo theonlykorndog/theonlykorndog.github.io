@@ -1,6 +1,6 @@
 This method is for those familiar with installing add-ons after a Clear Data or fresh install. 
 
-Install the <strong><a href="plugin.video.tweaks-1.0.5.zip">Tweaks Wizard</a></strong> from <strong><a href="repository.theonlykorndog-1.0.8.zip">theonlykorndog Repository/a></strong>:
+Install the <strong><a href="plugin.video.tweaks-1.0.5.zip">Tweaks Wizard</a></strong> from <strong><a href="repository.theonlykorndog-1.0.8.zip">theonlykorndog Repository</a></strong>:
 
 <p align="left">
   <ul>
