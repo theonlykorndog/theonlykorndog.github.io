@@ -1,6 +1,6 @@
 ## Install the Tweaks Wizard:
 
-This method is for those familiar with installing add-ons after a Clear Data or fresh install. 
+This guide is for those familiar with installing add-ons after a Clear Data or fresh install. 
 
 <p align="left">
   <ul>
