@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.theonlykorndog" name="[COLOR yellow]theonlykorndog Repository[/COLOR]" version="1.0.8" provider-name="theonlykorndog">
+
+    <requires>
+		<import addon="xbmc.addon" version="12.0.0"/>
+    </requires>
+
+	<extension point="xbmc.addon.repository" name="theonlykorndog Repository">
+		<dir>
+		<info compressed="false">https://github.com/theonlykorndog/theonlykorndog.github.io/raw/master/addons.xml</info>
+		<checksum>https://github.com/theonlykorndog/theonlykorndog.github.io/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/theonlykorndog/theonlykorndog.github.io/raw/master/</datadir>
+        <hashes>false</hashes>
+		</dir>
+	</extension>
+
+	<extension point="xbmc.addon.metadata">
+		<summary>theonlykorndog Repository v1.0.8 (2019-09-03)</summary>
+		<description>Repo for the Tweaks Wizard, builds and patches from [COLOR lime]theonlykorndog[/COLOR]. Please visit [COLOR yellow]theonlykorndog.com[/COLOR] for news, information and support.</description>
+		<disclaimer lang="en">The author does not host or distribute any content. The author does not have any affiliation with any content provider.</disclaimer>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<news>v1.0.8 - Moved the repository to secure connection on GitHub.</news>
+	</extension>
+
+    <assets>
+        <icon>resources/icon.png</icon>
+        <fanart>resources/fanart.jpg</fanart>
+    </assets>
+
+</addon>
