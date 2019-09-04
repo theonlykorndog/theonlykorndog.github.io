@@ -15,7 +15,7 @@ This method is for those familiar with installing add-ons after a Clear Data or 
   </ul>
 </p>
 
-*Alternatively, select <strong><a href="repository.theonlykorndog-1.0.8.zip">repo</a></strong> then install the <strong>Tweaks Wizard</strong> from the <strong>theonlykorndog Repository</strong>.
+*Alternatively, select <strong><a href="repository.theonlykorndog-1.0.8.zip">repository.theonlykorndog-1.0.8.zip</a></strong> then install the <strong>Tweaks Wizard</strong> from the <strong>theonlykorndog Repository</strong>.
 
 ## -- theonlykorndog
 
