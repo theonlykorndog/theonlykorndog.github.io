@@ -10,8 +10,7 @@ This guide is for those familiar with installing add-ons after a Clear Data or f
     <li>Back to <strong>System</strong>, select <strong>Addons</strong> then select <strong>Install from zip file</strong>.</li>
     <li>When prompted, select <strong>Settings</strong>, enable <strong>Unknown sources</strong> then select <strong>Yes</strong>.</li>
     <li>Back to <strong>Addons</strong> then select <strong>Install from zip file</strong> once again.</li>
-    <li>Select <strong>tok</strong> then select <strong><a href="plugin.video.tweaks-1.0.6.zip">plugin.video.tweaks-1.0.6.zip</a></strong> <sup>(1)</sup>.</li>
-    <li>Wait for the <strong>Add-on installed</strong> notification.</li>
+    <li>Select <strong>tok</strong> then select <strong><a href="plugin.video.tweaks-1.0.6.zip">plugin.video.tweaks-1.0.6.zip</a></strong> <sup>(1)</sup> then wait for the <strong>Add-on installed</strong> notification.</li>
     <li>Select <strong>My add-ons</strong>, select <strong>Video add-ons</strong>, select <strong>Tweaks Wizard</strong> then select <strong>Open</strong>.</li>
   </ul>
 </p>
