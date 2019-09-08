@@ -5,7 +5,7 @@ This guide is for those familiar with installing add-ons after a Clear Data or f
 <p align="left">
   <ul>
     <li>Select <strong>System</strong> gear icon, select <strong>File manager</strong> then select <strong>Add Source</strong>.</li>
-    <li>Select <strong>&lt;None&gt;</strong>, type <strong>https://theonlykorndog.github.io</strong> (Give it the simple name of  <strong>repo</strong>).</li>
+    <li>Select <strong>&lt;None&gt;</strong>, type <strong>https://theonlykorndog.github.io</strong> then name it <strong>repo</strong>.</li>
     <li>Ensure secure <strong>https</strong> in the URL, check spelling then select <strong>OK</strong>.</li>
     <li>Back to <strong>System</strong>, select <strong>Addons</strong> then select <strong>Install from zip file</strong>.</li>
     <li>When prompted, select <strong>Settings</strong>, enable <strong>Unknown sources</strong> then select <strong>Yes</strong>.</li>
