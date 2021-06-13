@@ -1,5 +1,48 @@
 <addons>
 
+<addon id="repository.theonlykorndog" name="[COLOR yellow]theonlykorndog Repository[/COLOR]" version="1.0.9" provider-name="theonlykorndog">
+	<extension point="xbmc.addon.repository" name="theonlykorndog Repository">
+		<dir>
+		<info compressed="false">https://github.com/theonlykorndog/theonlykorndog.github.io/raw/master/addons.xml</info>
+		<checksum>https://github.com/theonlykorndog/theonlykorndog.github.io/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/theonlykorndog/theonlykorndog.github.io/raw/master/</datadir>
+        <hashes>false</hashes>
+		</dir>
+	</extension>
+
+	<extension point="xbmc.addon.metadata">
+		<summary></summary>
+		<description>Repo for the Tweaks Build Installer from [COLOR yellow]theonlykorndog.com[/COLOR]. Please visit the website for news, information and guides.</description>
+		<disclaimer lang="en">The author does not host or distribute any content or have any affiliation with any content provider.</disclaimer>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<news>v1.0.9 - Fixed fanart and icon, updated description.</news>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+	</extension>
+</addon>
+
+<addon id="plugin.program.tweaks" name="[COLOR yellow]Tweaks Build Installer[/COLOR]" version="1.0.0" provider-name="theonlykorndog">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Fast and efficient build installer.</summary>
+    <description>Installs latest build from [COLOR=yellow]theonlykorndog.com[/COLOR] for Kodi 19 and above. Installing the build will overwrite your existing build and settings. Please visit the website for detailed information on the latest build, news, information and platform guides.</description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+	<news>v1.0.0 - stable release for Kodi 19 and above with Python 3.</news>
+	</extension>
+</addon>
+
 <addon id="plugin.video.tweaks" name="[COLOR yellow]Tweaks Wizard[/COLOR]" version="1.0.7" provider-name="theonlykorndog">
 
 	<requires>
@@ -24,37 +67,6 @@
         <fanart>resources/fanart.jpg</fanart>
     </assets>
 	
-</addon>
-
-<addon id="repository.theonlykorndog" name="[COLOR yellow]theonlykorndog Repository[/COLOR]" version="1.0.8" provider-name="theonlykorndog">
-
-    <requires>
-		<import addon="xbmc.addon" version="12.0.0"/>
-    </requires>
-
-	<extension point="xbmc.addon.repository" name="theonlykorndog Repository">
-		<dir>
-		<info compressed="false">https://github.com/theonlykorndog/theonlykorndog.github.io/raw/master/addons.xml</info>
-		<checksum>https://github.com/theonlykorndog/theonlykorndog.github.io/raw/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/theonlykorndog/theonlykorndog.github.io/raw/master/</datadir>
-        <hashes>false</hashes>
-		</dir>
-	</extension>
-
-	<extension point="xbmc.addon.metadata">
-		<summary>theonlykorndog Repository v1.0.8 (2019-09-03)</summary>
-		<description>Repo for the Tweaks Wizard, builds and patches from [COLOR lime]theonlykorndog[/COLOR]. Please visit [COLOR yellow]theonlykorndog.com[/COLOR] for news, information and support.</description>
-		<disclaimer lang="en">The author does not host or distribute any content. The author does not have any affiliation with any content provider.</disclaimer>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-		<news>v1.0.8 - Moved the repository to secure connection on GitHub.</news>
-	</extension>
-
-    <assets>
-        <icon>resources/icon.png</icon>
-        <fanart>resources/fanart.jpg</fanart>
-    </assets>
-
 </addon>
 
 </addons>
