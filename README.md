@@ -18,4 +18,4 @@ This guide is for those familiar with installing add-ons after a Clear Data or f
 
 ## -- theonlykorndog
 
-UPDATE 06/13/2021: The <strong>plugin.video.tweaks-1.0.7.zip</strong> Tweaks Wizard video addon in the <strong><a href="repository.theonlykorndog-1.0.9.zip">theonlykorndog Repository</a></strong> addon will SOON be replaced by the <strong><a href="plugin.program.tweaks-1.0.0.zip">plugin.program.tweaks-1.0.0.zip</a></strong> Tweaks Build Installer program addon currently in beta testing. You can download and install from zip file but it will not download and extract any builds until build_19.1.0.zip is final.
+UPDATE 06/13/2021: The <strong>plugin.video.tweaks-1.0.7.zip</strong> Tweaks Wizard video addon in the theonlykorndog Repository, <strong><a href="repository.theonlykorndog-1.0.9.zip">repository.theonlykorndog-1.0.9.zip</a></strong>, will SOON be replaced by the <strong><a href="plugin.program.tweaks-1.0.0.zip">plugin.program.tweaks-1.0.0.zip</a></strong> Tweaks Build Installer program addon currently in beta testing. You can download and install from zip file but it will not download and extract any builds until build_19.1.0.zip is final.
