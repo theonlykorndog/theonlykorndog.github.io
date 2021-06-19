@@ -1,4 +1,4 @@
-## Install the Tweaks Wizard:
+## Install the Tweaks Wizard or Tweaks Build Installer:
 
 This guide is for those familiar with installing add-ons after a Clear Data or fresh install. 
 
@@ -10,8 +10,8 @@ This guide is for those familiar with installing add-ons after a Clear Data or f
     <li>Back to <strong>System</strong>, select <strong>Addons</strong> then select <strong>Install from zip file</strong>.</li>
     <li>When prompted, select <strong>Settings</strong>, enable <strong>Unknown sources</strong> then select <strong>Yes</strong>.</li>
     <li>Back to <strong>Addons</strong> then select <strong>Install from zip file</strong> then select <strong>Yes</strong> once again.</li>
-    <li>(Kodi 18 Leia)  Select <strong>repo</strong> then select <strong>plugin.video.tweaks-1.0.7.zip</strong>.</li>
-    <li>(Kodi 19 Matrix)  Select <strong>repo</strong> then select <strong>plugin.program.tweaks-1.0.0.zip</strong> .</li>
+    <li><strong>(Kodi 18 Leia)</strong>  Select <strong>repo</strong> then select <strong>plugin.video.tweaks-1.0.7.zip</strong>.</li>
+    <li><strong>(Kodi 19 Matrix)</strong>  Select <strong>repo</strong> then select <strong>plugin.program.tweaks-1.0.0.zip</strong> .</li>
     <li>Wait for the <strong>Add-on installed</strong> notification.</li>
     <li>Select <strong>My add-ons</strong>, select <strong>Video add-ons</strong>, select <strong>Tweaks Wizard</strong> then select <strong>Open</strong>.</li>
   </ul>
