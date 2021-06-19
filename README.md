@@ -29,4 +29,4 @@ Repository listing 06/19/2021:
   </ul>
 </p>
 
-Tweaks Build Installer program addon currently in beta testing and will only work on Kodi 19. You can download and install from zip file but it will not download and extract any builds until build_v19.1.0.zip is final. Anticipate final release 06/19/2021 to 06/20/2021.
+Tweaks Build Installer program addon currently in beta testing and will only work on Kodi 19. Don't download and install from zip file until build_v19.1.0.zip is final. Anticipate final release 06/19/2021 to 06/20/2021.
