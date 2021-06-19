@@ -10,7 +10,8 @@ This guide is for those familiar with installing add-ons after a Clear Data or f
     <li>Back to <strong>System</strong>, select <strong>Addons</strong> then select <strong>Install from zip file</strong>.</li>
     <li>When prompted, select <strong>Settings</strong>, enable <strong>Unknown sources</strong> then select <strong>Yes</strong>.</li>
     <li>Back to <strong>Addons</strong> then select <strong>Install from zip file</strong> then select <strong>Yes</strong> once again.</li>
-    <li>Select <strong>repo</strong> then select <strong><a href="plugin.video.tweaks-1.0.7.zip">plugin.video.tweaks-1.0.7.zip</a></strong>.</li>
+    <li>Select <strong>repo</strong> then select <strong><a href="plugin.video.tweaks-1.0.7.zip">plugin.video.tweaks-1.0.7.zip</a></strong> (Kodi 18 Leia).</li>
+    <li>Select <strong>repo</strong> then select <strong><a href="plugin.program.tweaks-1.0.0.zip">plugin.program.tweaks-1.0.0.zip</a></strong> (Kodi 19 Matrix).</li>
     <li>Wait for the <strong>Add-on installed</strong> notification.</li>
     <li>Select <strong>My add-ons</strong>, select <strong>Video add-ons</strong>, select <strong>Tweaks Wizard</strong> then select <strong>Open</strong>.</li>
   </ul>
@@ -18,4 +19,9 @@ This guide is for those familiar with installing add-ons after a Clear Data or f
 
 ## -- theonlykorndog
 
-UPDATE 06/13/2021: The <strong>plugin.video.tweaks-1.0.7.zip</strong> Tweaks Wizard video addon will soon be replaced by the <strong><a href="plugin.program.tweaks-1.0.0.zip">plugin.program.tweaks-1.0.0.zip</a></strong> Tweaks Build Installer program addon currently in beta testing. You can download and install from zip file but it will not download and extract any builds until build_v19.1.0.zip is final.
+Repository listing 06/19/2021:
+Tweaks Build Installer - <strong><a href="plugin.program.tweaks-1.0.0.zip">plugin.program.tweaks-1.0.0.zip</a></strong> (Kodi 19 Matrix)
+Tweaks Wizard - <strong><a href="plugin.video.tweaks-1.0.7.zip">plugin.video.tweaks-1.0.7.zip</a></strong> (Kodi 18 Leia)
+Repository - <strong><a href="repository.theonlykorndog-1.0.9.zip">repository.theonlykorndog-1.0.9.zip</a></strong>
+
+Tweaks Build Installer program addon currently in beta testing. You can download and install from zip file but it will not download and extract any builds until build_v19.1.0.zip is final.
