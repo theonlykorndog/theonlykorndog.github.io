@@ -14,7 +14,7 @@ This guide is for those familiar with installing add-ons after a Clear Data or f
     <li><strong>Kodi 19 Matrix</strong> - Select <strong>repo</strong> then select <strong>plugin.program.tweaks-1.0.0.zip</strong> .</li>
     <li>Wait for the <strong>Add-on installed</strong> notification.</li>
     <li>Select <strong>My add-ons</strong> then select <strong>Video add-ons</strong>.</li>
-    <li>select <strong>Tweaks Wizard</strong> or <strong>Tweaks Build Installer</strong> then select <strong>Open</strong>.</li>
+    <li>Select <strong>Tweaks Wizard</strong> or <strong>Tweaks Build Installer</strong> then select <strong>Open</strong>.</li>
   </ul>
 </p>
 
