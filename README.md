@@ -11,9 +11,9 @@ This guide is for those familiar with installing add-ons after a Clear Data or f
     <li>When prompted, select <strong>Settings</strong>, enable <strong>Unknown sources</strong> then select <strong>Yes</strong>.</li>
     <li>Back to <strong>Addons</strong> then select <strong>Install from zip file</strong> then select <strong>Yes</strong> once again.</li>
     <li><strong>Kodi 18 Leia</strong> - Select <strong>repo</strong> then select <strong>plugin.video.tweaks-1.0.7.zip</strong>.</li>
-    <li><strike><strong>Kodi 19 Matrix</strong> - Select <strong>repo</strong> then select <strong>plugin.program.tweaks-1.0.0.zip</strong></strike>. Beta testing...</li>
+    <li><strong>Kodi 19 Matrix</strong> - Select <strong>repo</strong> then select <strong>plugin.program.tweaks-1.0.0.zip</strong>.</li>
     <li>Wait for the <strong>Add-on installed</strong> notification.</li>
-    <li>Select <strong>My add-ons</strong> then select <strong>Video add-ons</strong>.</li>
+    <li>Select <strong>My add-ons</strong> then select <strong>Program add-ons</strong>.</li>
     <li>Select <strong>Tweaks Wizard</strong> or <strong>Tweaks Build Installer</strong> then select <strong>Open</strong>.</li>
   </ul>
 </p>
@@ -28,5 +28,3 @@ Repository listing 06/19/2021:
     <li>Repository - <strong><a href="repository.theonlykorndog-1.0.9.zip">repository.theonlykorndog-1.0.9.zip</a></strong></li>
   </ul>
 </p>
-
-Tweaks Build Installer program addon currently in beta testing and will only work on Kodi 19. Don't download and install from zip file until build_v19.1.0.zip is final. Anticipate final release 06/19/2021 to 06/20/2021.
