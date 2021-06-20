@@ -14,7 +14,7 @@ This guide is for those familiar with installing add-ons after a Clear Data or f
     <li>Wait for the <strong>Add-on installed</strong> notification.</li>
     <li>Select <strong>My add-ons</strong> then select <strong>Program add-ons</strong>.</li>
     <li>Select <strong>Tweaks Build Installer</strong> then select <strong>Open</strong>.</li>
-    <li>Select <strong>Yes</strong> then select <strong>Yes</strong> again to confirm you want to install the latest build.
+    <li>Select <strong>Yes</strong> then select <strong>Yes</strong> again to confirm you want to install the latest build.</li>
   </ul>
 </p>
 
