@@ -24,7 +24,7 @@ Repository listing 06/19/2021:
 <p align="left">
   <ul>
     <li>Tweaks Build Installer - <strong><a href="plugin.program.tweaks-1.0.0.zip">plugin.program.tweaks-1.0.0.zip</a></strong> (Kodi 19 Matrix)</li>
-    <li>Tweaks Wizard - <strong><a href="plugin.video.tweaks-1.0.7.zip">plugin.video.tweaks-1.0.7.zip</a></strong> (Kodi 18 Leia)</li>
+    <li>Tweaks Wizard - <strong><a href="plugin.video.tweaks-1.0.7.zip">plugin.video.tweaks-1.0.7.zip</a></strong> (Kodi 18 Leia - legacy)</li>
     <li>Repository - <strong><a href="repository.theonlykorndog-1.0.9.zip">repository.theonlykorndog-1.0.9.zip</a></strong></li>
   </ul>
 </p>
