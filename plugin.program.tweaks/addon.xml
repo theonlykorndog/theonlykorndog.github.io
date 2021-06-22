@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.tweaks" name="[COLOR yellow]Tweaks Build Installer[/COLOR]" version="1.0.0" provider-name="theonlykorndog">
+<addon id="plugin.program.tweaks" name="[COLOR yellow]Tweaks Build Installer[/COLOR]" version="1.0.1" provider-name="theonlykorndog">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -14,6 +14,6 @@
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
     </assets>
-	<news>v1.0.0 - stable release for Kodi 19 and above with Python 3.</news>
+	<news>v1.0.1 - Fixed 404 error. Stable release for Kodi 19</news>
 	</extension>
 </addon>
