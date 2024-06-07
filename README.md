@@ -24,7 +24,7 @@ Repository listing 06/19/2021:
 <p align="left">
   <ul>
     <li>Tweaks Build Installer - <strong><a href="plugin.program.tweaks-1.0.2.zip">plugin.program.tweaks-1.0.2.zip</a></strong> (Kodi 20/21 Nexus/Omega)</li>
-    <li>Repository - <strong><a href="repository.theonlykorndog-1.1.0.zip">repository.theonlykorndog-1.0.9.zip</a></strong></li>
+    <li>Repository - <strong><a href="repository.theonlykorndog-1.1.0.zip">repository.theonlykorndog-1.1.0.zip</a></strong></li>
      
   </ul>
 </p>
