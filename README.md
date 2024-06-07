@@ -20,7 +20,7 @@ This guide is for those familiar with installing add-ons after a Clear Data or f
 
 ## -- theonlykorndog
 
-Repository listing 06/19/2021:
+Repository listing 06/07/2024:
 <p align="left">
   <ul>
     <li>Tweaks Build Installer - <strong><a href="plugin.program.tweaks-1.0.2.zip">plugin.program.tweaks-1.0.2.zip</a></strong> (Kodi 20/21 Nexus/Omega)</li>
