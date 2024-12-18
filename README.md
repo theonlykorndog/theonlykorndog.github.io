@@ -1,4 +1,4 @@
-## Install the Tweaks Build Installer (Matrix):
+## Install the Tweaks Build Installer (Nexus/Omega):
 
 This guide is for those familiar with installing add-ons after a Clear Data or fresh install. 
 
